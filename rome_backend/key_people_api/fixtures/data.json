@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Aeneas",
+    "title": "Trojan Refugee",
+    "era": "Pre-Roman Era",
+    "picture": "http://www.maicar.com/GML/000Images/aim/aeneas1636.jpg",
+    "allegiance": "Neutral",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Romulus",
+    "title": "Founder of Rome",
+    "era": "Roman Kingdom",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Lucius Tarquinius Superbus",
+    "title": "Last King of Rome",
+    "era": "Roman Kingdom",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tarquinius-Superbus.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Lucius Junius Brutus",
+    "title": "Father of the Republic",
+    "era": "Early Republic",
+    "picture": "http://www.romeandart.eu/images/news/bruto-1.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Lucius Quinctius Cincinnatus",
+    "title": "The Ideal Roman",
+    "era": "Early Republic",
+    "picture": "http://3.bp.blogspot.com/-K1GqzRbPVR8/UEd5rxlmboI/AAAAAAAACJ8/WyKA0cLVlUo/w1200-h630-p-k-no-nu/cincinnatus_marceldouwedekker.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Marcus Furius Camillus",
+    "title": "Second Founder of Rome",
+    "era": "Early Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Furius-Camillus.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Pyrrhus of Epirus",
+    "title": "Greek Menace",
+    "era": "Early Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Hamilcar Barca",
+    "title": "Patriarch of the Punic Menace",
+    "era": "Early Republic",
+    "picture": "https://ehistory.osu.edu/sites/default/files/hamilcar.jpg",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Cato the Elder",
+    "title": "Upholder of Roman Values",
+    "era": "Early Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patrizio_Torlonia.jpg/220px-Patrizio_Torlonia.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Hannibal",
+    "title": "Nightmare of Rome",
+    "era": "Early Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mommsen_p265.jpg/220px-Mommsen_p265.jpg",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Scipio Africanus",
+    "title": "Conqueror of Africa",
+    "era": "Early Republic",
+    "picture": "https://comicvine1.cbsistatic.com/uploads/original/11/114183/5171880-scipio_africanus.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Philip V of Macedon",
+    "title": "No Alexander",
+    "era": "Early Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Philip_V_of_Macedon_BM.jpg/220px-Philip_V_of_Macedon_BM.jpg",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Lucius Aemilius Paullus Macedonicus",
+    "title": "Conqueror of Macedon",
+    "era": "Early Republic",
+    "picture": "https://alchetron.com/cdn/lucius-aemilius-paullus-macedonicus-f0b8796b-64ef-4a4a-bf20-4618ec8ef43-resize-750.jpeg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Scipio Aemilianus",
+    "title": "Destroyer of Carthage",
+    "era": "Early Republic",
+    "picture": "https://vignette.wikia.nocookie.net/althistory/images/5/50/Scipio-aemilianus.jpg/revision/latest?cb=20170224125717",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Tiberius Gracchus",
+    "title": "Man of the People",
+    "era": "Late Republic",
+    "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/1/1c/Tiberius_Gracchus.jpg/revision/latest?cb=20190418171852",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Gaius Gracchus",
+    "title": "Fire and Brimstone Populist",
+    "era": "Late Republic",
+    "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/d/d5/Gaius_Gracchus.jpg/revision/latest?cb=20190418172635",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Jugurtha",
+    "title": "King of Numidia",
+    "era": "Late Republic",
+    "picture": "https://steemitimages.com/640x0/https://i.imgsafe.org/b636640f66.png",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Gaius Marius",
+    "title": "Father of the Roman Legion",
+    "era": "Late Republic",
+    "picture": "https://i.pinimg.com/originals/25/98/2a/25982a128f36b4d6492ae69e6022441c.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Sulla",
+    "title": "Optimate Strongman",
+    "era": "Late Republic",
+    "picture": "https://i.pinimg.com/originals/28/31/c2/2831c20ae3f07be9642970ef4781f7f3.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Mithridates VI of Pontus",
+    "title": "Hegemon of the East",
+    "era": "Late Republic",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/800px-Mithridates_VI_Louvre.jpg",
+    "allegiance": "Enemy",
+    "bio": "",
+    "wiki": ""
+  },
+  {
+    "name": "Lucullus",
+    "title": "Conqueror of the East",
+    "era": "Late Republic",
+    "picture": "https://i.pinimg.com/originals/f3/d6/92/f3d692512848877d1f68da23edb6a462.jpg",
+    "allegiance": "Rome",
+    "bio": "",
+    "wiki": ""
+  }
+]

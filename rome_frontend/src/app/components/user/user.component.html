@@ -1,0 +1,41 @@
+<div class="content">
+  <mat-toolbar>
+    <span>User</span>
+    <span class="spacer"></span>
+    <mat-icon>perm_identity</mat-icon>
+  </mat-toolbar>
+
+  <mat-tab-group mat-stretch-tabs>
+    <mat-tab label="Log In">
+      <mat-card>
+        <mat-card-title>Log In</mat-card-title>
+        <mat-form-field *ngIf="!loggedIn">
+          <input matInput [formControl]="currentUserName" placeholder="User Name (required)">
+        </mat-form-field>
+        <mat-form-field *ngIf="!loggedIn">
+            <input matInput [formControl]="currentUserEmail" placeholder="Email (optional)">
+          </mat-form-field>
+        <mat-form-field *ngIf="!loggedIn">
+          <input matInput [formControl]="currentUserPassword" placeholder="Password (required)">
+        </mat-form-field>   
+        <button [disabled]="currentInfoIncomplete()" mat-button (click)="logIn()">Submit</button> 
+      </mat-card>
+    </mat-tab>
+
+    <mat-tab label="Create Account">
+      <mat-card>
+        <mat-card-title>Create Account</mat-card-title>
+        <mat-form-field *ngIf="!loggedIn">
+          <input matInput [formControl]="newUserName" placeholder="User Name (required)">
+        </mat-form-field>
+        <mat-form-field *ngIf="!loggedIn">
+            <input matInput [formControl]="newUserEmail" placeholder="Email (required)">
+          </mat-form-field>
+        <mat-form-field *ngIf="!loggedIn">
+          <input matInput [formControl]="newUserPassword" placeholder="Password (required)">
+        </mat-form-field>   
+        <button [disabled]="newInfoIncomplete()" mat-button (click)="addNewUser()">Submit</button> 
+      </mat-card>
+    </mat-tab>
+  </mat-tab-group>
+</div>

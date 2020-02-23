@@ -1,0 +1,46 @@
+<div class="content">
+  <mat-toolbar class="timeline-title">
+    <span>Timeline</span>
+    <span class="spacer"></span>
+    <mat-icon>timeline</mat-icon>
+  </mat-toolbar>
+  <div ng2-carouselamos
+    class="slides-wrapper"
+    [items]="contents"
+    [width]="1000"
+    [$prev]="prev"
+    [$next]="next"
+    [$item]="item"
+    (onSelectedItem)="handleSlideChange($event.index)">
+
+    <ng-template #prev>
+      <button class="nav-button" mat-icon-button>
+        <mat-icon class="arrow">arrow_back_ios</mat-icon>
+      </button>
+    </ng-template>
+
+    <ng-template #next>
+      <button class="nav-button" mat-icon-button>
+        <mat-icon class="arrow">arrow_forward_ios</mat-icon>
+      </button>
+    </ng-template>
+    
+    <ng-template #item let-item let-i="index">
+      <div class="slide-item">
+        <img src="{{ item.url }}" alt="{{item.header}}" class="timeline-img">
+      </div>
+    </ng-template>
+  </div>
+  <mat-slider
+    min="0"
+    [max]="contents.length - 1"
+    [tickInterval]="1"
+    [value]="value"
+    disabled
+  ></mat-slider>
+
+  <h1 class="section-title">{{contents[value].header}}</h1>
+  <div class="content">
+    <mat-card>{{contents[value].body}}</mat-card>
+  </div>        
+</div>

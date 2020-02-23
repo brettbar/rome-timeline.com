@@ -1,0 +1,24 @@
+<div class="mat-card-list">
+  <mat-card 
+    *ngFor="let person of people"
+    id="bio-card" 
+    [ngStyle]=
+    "person.allegiance=='Rome' ?
+    {'background': '5E35B1'}:{'background': 'rgba(174, 177, 16, 0.377)'} &&
+    person.allegiance=='Enemy' ?
+    {'background': 'rgb(138, 42, 42)'}:{'background': 'rgba(174, 177, 16, 0.377)'}"
+    >
+    <mat-card-header>
+      <mat-card-title>{{person.name}}</mat-card-title>
+      <mat-card-subtitle>{{person.title}}</mat-card-subtitle>
+      <span class="era">{{person.era}}</span>
+    </mat-card-header>
+    <div class=bottom-content>
+      <img mat-card-image src="{{person.picture}}" alt="{{person.name}} picture">
+      <mat-card-content>
+        {{person.bio}}
+      </mat-card-content>
+    </div>
+    <a mat-button href="{{person.wiki}}" target="_blank">Wiki</a>
+  </mat-card>
+</div>

@@ -1,0 +1,42 @@
+<div class="content" *ngIf="validPage">
+  <mat-card class="discussion-title">
+    <mat-card-title>{{currentDiscussion.topic}}</mat-card-title>
+    <mat-card-subtitle>{{currentDiscussion.description}}</mat-card-subtitle>
+    <mat-card-content>
+      <mat-card class="new-post">
+        <button class="new-post-button" mat-button (click)="openNewPostMenu()">Create New Post</button>
+      </mat-card>
+      <mat-card *ngIf="showCreatePost" class="fillout-post">
+        <mat-card-title>Create New Post</mat-card-title>
+        <mat-form-field>
+          <input [formControl]="newPostTopic" matInput placeholder="Post Topic">
+        </mat-form-field>
+        <mat-form-field>
+          <textarea [formControl]="newPostDescription" matInput placeholder="Description"></textarea>
+        </mat-form-field>
+        <div class="buttons">
+            <button mat-button class="submit" (click)="createNewPost()">Create</button>
+            <button mat-button class="submit" (click)="closeNewPostMenu()">Cancel</button>
+        </div>
+      </mat-card>
+      <mat-card *ngFor="let post of currentDiscussion.posts" class=post>
+        <mat-card-title>{{post.title}}</mat-card-title>
+        <mat-card-subtitle>{{post.body}}</mat-card-subtitle>
+        <mat-card-content>
+          <mat-accordion>
+            <mat-expansion-panel>
+              <mat-expansion-panel-header>
+                <mat-panel-title>Comments</mat-panel-title>
+                <mat-panel-description>Description</mat-panel-description>
+              </mat-expansion-panel-header>
+
+              <mat-tree [dataSource]="post.comments">
+                <mat-tree-node>suh dude</mat-tree-node>
+              </mat-tree>
+            </mat-expansion-panel>
+          </mat-accordion>
+        </mat-card-content>
+      </mat-card>
+    </mat-card-content>
+  </mat-card>
+</div>

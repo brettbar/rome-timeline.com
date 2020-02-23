@@ -1,0 +1,19 @@
+<div class="content">
+  <mat-toolbar>
+    <span>Home</span>
+    <span class="spacer"></span>
+    <mat-icon>account_balance</mat-icon>
+  </mat-toolbar>
+  <img src="./assets/images/home-image.jpg" alt="home image">
+  <nav mat-tab-nav-bar mat-stretch-tabs class="tab-group">
+    <a mat-tab-link
+      *ngFor="let link of links"
+      [routerLink]="link"
+      (click)="activeLink = link"
+      [active]="activeLink == link">
+      {{link | titlecase}}
+    </a>
+  </nav>
+  <router-outlet></router-outlet>
+</div>
+

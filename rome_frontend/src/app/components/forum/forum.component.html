@@ -1,0 +1,41 @@
+<div class="content">
+  <mat-toolbar>
+    <span>Forum</span>
+    <span class="spacer"></span>
+    <mat-icon>account_balance</mat-icon>
+  </mat-toolbar>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cicer%C3%B3n_denuncia_a_Catilina%2C_por_Cesare_Maccari.jpg" alt="senate image">
+  <mat-toolbar class="discussions">
+  </mat-toolbar>
+ 
+  <mat-accordion>
+    <mat-expansion-panel>
+      <mat-card class="new-discussion">
+        <button class="new-discussion-button" *ngIf="!showDiscussionForm" mat-button (click)="createNewDiscussion()">Create New Discussion</button>
+        <mat-card *ngIf="showDiscussionForm" class="new-discussion-form">
+          <mat-card-title>Create New Discussion</mat-card-title>
+          <mat-form-field>
+            <input [formControl]="newDiscussionTopic" matInput placeholder="Discussion Topic">
+          </mat-form-field>
+          <mat-form-field>
+            <textarea [formControl]="newDiscussionDescription" matInput placeholder="Description"></textarea>
+          </mat-form-field>
+          <div class="submit-button-wrapper">
+            <button class="cancel" mat-button (click)="showDiscussionForm=false">Cancel</button>
+            <button class="submit" [disabled]="currentInfoIncomplete()" mat-button (click)="logIn()">Submit</button> 
+          </div>
+        </mat-card>
+      </mat-card>
+      <mat-expansion-panel-header>
+        <mat-panel-title>Discussions</mat-panel-title>
+        <mat-panel-description>Join or Create a Discussion</mat-panel-description>
+      </mat-expansion-panel-header>
+      
+      <mat-card class="discussion-card" *ngFor="let discussion of discussions">
+        <mat-card-header>{{discussion.topic}}</mat-card-header>
+        <a mat-button routerLink='{{discussion.id}}'>Join Discussion</a>
+      </mat-card>
+    </mat-expansion-panel>
+  </mat-accordion>
+  <router-outlet></router-outlet>
+</div>

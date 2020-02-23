@@ -1,0 +1,71 @@
+div.mat-card-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #212121;
+}
+
+mat-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.era {
+  margin-right: 10px;
+}
+
+#bio-card {
+  /* max-width: 40vw; */
+  margin: 10px;
+  padding-left: 0;
+  padding-right: 0;
+  display: flex;
+  flex-direction: column;
+  background: #5E35B1;
+}
+
+div.bottom-content {
+  display: flex;
+  background: #303030;
+  align-items: center;
+  height: auto;
+}
+
+mat-card img {
+  max-width: 30%;
+  object-fit: cover;
+  object-position: center;
+  margin: 0;
+}
+
+mat-card-content {
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+a {
+  width: 40px;
+  align-self: center;
+  background: #424242;
+  margin-top: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+  div.bottom-content {
+    display: flex;
+    flex-direction: column;
+    background: #303030;
+  }
+  mat-card img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  mat-card-content {
+    background: #424242;
+  }
+}
