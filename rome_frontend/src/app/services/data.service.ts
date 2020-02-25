@@ -7,8 +7,11 @@ import { KeyPerson, TimeLineContent, Discussion } from '../interfaces/interface'
   providedIn: 'root'
 })
 export class DataService {
-  baseurl = 'http://127.0.0.1:8000';
-  httpHeaders = new HttpHeaders({'Content-Type': 'application/json'});
+  // baseurl = 'http://127.0.0.1:8000';
+  baseurl = 'https://brettbar.pythonanywhere.com';
+  httpHeaders = new HttpHeaders({
+    'Content-Type': 'application/json',
+  });
 
   discussions: Discussion[] = [
     {
