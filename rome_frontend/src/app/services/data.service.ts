@@ -9,8 +9,7 @@ import { KeyPerson, TimeLineContent, Discussion } from '../interfaces/interface'
 export class DataService {
   baseurl = 'http://127.0.0.1:8000';
   httpHeaders = new HttpHeaders({'Content-Type': 'application/json'});
-  
-  
+
   discussions: Discussion[] = [
     {
       topic: 'General',
@@ -39,19 +38,9 @@ export class DataService {
     },
   ];
 
- 
-
   constructor(private http: HttpClient) { }
 
   getKeyPeople(): Observable<any> {
     return this.http.get(this.baseurl + '/persons/', {headers: this.httpHeaders});
-  }
-
-  getPage(name: string) {
-    return this.http.get(this.generateAPIurl(name), {responseType: 'text'});
-  }
-
-  generateAPIurl(name: string) {
-    return `https://en.wikipedia.org/w/api.php?action=parse&page=${name.replace(/ /g, '%20')}&format=json&origin=*`;
   }
 }
