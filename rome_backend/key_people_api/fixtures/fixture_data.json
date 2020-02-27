@@ -1,1 +1,296 @@
-[{"model": "key_people_api.person", "pk": 1, "fields": {"name": "Aeneas", "title": "Trojan Refugee", "era": "Pre-Roman Era", "picture": "http://www.maicar.com/GML/000Images/aim/aeneas1636.jpg", "allegiance": "Neutral", "bio": "In Greco-Roman mythology, Aeneas (/\u026a\u02c8ni\u02d0\u0259s/;[1] Greek: \u0391\u1f30\u03bd\u03b5\u03af\u03b1\u03c2, Aine\u00edas, possibly derived from Greek \u03b1\u1f30\u03bd\u03ae meaning \"praised\") was a Trojan hero, the son of the prince Anchises and the goddess Aphrodite (Venus). His father was a first cousin of King Priam of Troy (both being grandsons of Ilus, founder of Troy), making Aeneas a second cousin to Priam's children (such as Hector and Paris). He is a character in Greek mythology and is mentioned in Homer's Iliad. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's Aeneid, where he is cast as an ancestor of Romulus and Remus. He became the first true hero of Rome. Snorri Sturluson identifies him with the Norse god Vidarr of the \u00c6sir.[2]\n", "wiki": "https://en.wikipedia.org/wiki/Aeneas"}}, {"model": "key_people_api.person", "pk": 2, "fields": {"name": "Romulus", "title": "Founder of Rome", "era": "Roman Kingdom", "picture": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg", "allegiance": "Rome", "bio": "Romulus (/\u02c8r\u0252mj\u0259l\u0259s/) was the legendary founder and first king of Rome. Various traditions attribute the establishment of many of Rome's oldest legal, political, religious, and social institutions to Romulus and his contemporaries. Although many of these traditions incorporate elements of folklore, and it is not clear to what extent a historical figure underlies the mythical Romulus, the events and institutions ascribed to him were central to the myths surrounding Rome's origins and cultural traditions.\n", "wiki": "https://en.wikipedia.org/wiki/Romulus"}}, {"model": "key_people_api.person", "pk": 3, "fields": {"name": "Lucius Tarquinius Superbus", "title": "Last King of Rome", "era": "Roman Kingdom", "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tarquinius-Superbus.jpg", "allegiance": "Rome", "bio": "Lucius Tarquinius Superbus (died 495 BC) was the legendary seventh and final king of Rome, reigning from 535 BC until the popular uprising in 509 BC that led to the establishment of the Roman Republic. He is commonly known as Tarquin the Proud, from his cognomen Superbus (Latin for \"proud, arrogant, lofty\").[1]\n", "wiki": "https://en.wikipedia.org/wiki/Lucius%20Tarquinius%20Superbus"}}, {"model": "key_people_api.person", "pk": 4, "fields": {"name": "Lucius Junius Brutus", "title": "Father of the Republic", "era": "Early Republic", "picture": "http://www.romeandart.eu/images/news/bruto-1.jpg", "allegiance": "Rome", "bio": "Lucius Junius Brutus (/\u02c8lju\u02d0\u0283(i)\u0259s, \u02c8d\u0292u\u02d0ni\u0259s \u02c8bru\u02d0t\u0259s/; classical Latin: /\u02c8lu\u02d0.ki.us [\u02c8\u026b\u032au\u02d0.ki.\u028as] 'ju\u02d0.ni.us 'bru\u02d0.tus/) was the founder of the Roman Republic and traditionally one of the first consuls in 509 BC. This followed his successful overthrow of the Roman monarchy. He was claimed as an ancestor of the Roman gens Junia, including Decimus Junius Brutus and Marcus Junius Brutus, the most famous of Julius Caesar's assassins.\n", "wiki": "https://en.wikipedia.org/wiki/Lucius%20Junius%20Brutus"}}, {"model": "key_people_api.person", "pk": 5, "fields": {"name": "Lucius Quinctius Cincinnatus", "title": "The Ideal Roman", "era": "Early Republic", "picture": "http://3.bp.blogspot.com/-K1GqzRbPVR8/UEd5rxlmboI/AAAAAAAACJ8/WyKA0cLVlUo/w1200-h630-p-k-no-nu/cincinnatus_marceldouwedekker.jpg", "allegiance": "Rome", "bio": "Lucius Quinctius[1] (or Quintius)[2] Cincinnatus (Latin:\u00a0[\u02c8lu\u02d0k\u026a.\u028as \u02c8k\u1da3i\u02d0\u014bkt\u026a.\u028as k\u026a\u014bk\u026an\u02c8na\u02d0t\u028as, - \u02c8k\u1da3i\u02d0nt\u026a.\u028as -]; c.\u2009519 \u2013 c.\u2009430\u00a0BC)[2][3] was a Roman patrician, statesman, and military leader of the early Roman Republic who became a legendary figure of Roman virtue\u2014particularly civic virtue\u2014by the time of the Empire.\n", "wiki": "https://en.wikipedia.org/wiki/Lucius%20Quinctius%20Cincinnatus"}}, {"model": "key_people_api.person", "pk": 6, "fields": {"name": "Marcus Furius Camillus", "title": "Second Founder of Rome", "era": "Early Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Furius-Camillus.jpg", "allegiance": "Rome", "bio": "Marcus Furius Camillus (/k\u0259\u02c8m\u026al\u0259s/; c. 446 \u2013 365 BC) was a Roman soldier and statesman of patrician descent. According to Livy and Plutarch, Camillus triumphed four times, was five times dictator, and was honoured with the title of Second Founder of Rome.\n", "wiki": "https://en.wikipedia.org/wiki/Marcus%20Furius%20Camillus"}}, {"model": "key_people_api.person", "pk": 7, "fields": {"name": "Pyrrhus of Epirus", "title": "Greek Menace", "era": "Early Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg", "allegiance": "Enemy", "bio": "Pyrrhus \u0399 (/\u02c8p\u026ar\u0259s/; Ancient Greek: \u03a0\u03cd\u03c1\u03c1\u03bf\u03c2, Pyrrhos; 319/318\u2013272 BC) was a Greek general and statesman of the Hellenistic period.[1][2][3][4] He was king of the Greek tribe of Molossians,[3][5] of the royal Aeacid house,[6] and later he became king (Malalas called him also toparch[7]) of Epirus. He was one of the strongest opponents of early Rome. Several of his victorious battles caused him unacceptably heavy losses, from which the term Pyrrhic victory was coined.\n", "wiki": "https://en.wikipedia.org/wiki/Pyrrhus%20of%20Epirus"}}, {"model": "key_people_api.person", "pk": 8, "fields": {"name": "Hamilcar Barca", "title": "Patriarch of the Punic Menace", "era": "Early Republic", "picture": "https://ehistory.osu.edu/sites/default/files/hamilcar.jpg", "allegiance": "Enemy", "bio": "Hamilcar Barca or Barcas (c.\u2009275\u2013228\u00a0BC) was a Carthaginian general and statesman, leader of the Barcid family, and father of Hannibal, Hasdrubal and Mago. He was also father-in-law to Hasdrubal the Fair.\n", "wiki": "https://en.wikipedia.org/wiki/Hamilcar%20Barca"}}, {"model": "key_people_api.person", "pk": 9, "fields": {"name": "Cato the Elder", "title": "Upholder of Roman Values", "era": "Early Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patrizio_Torlonia.jpg/220px-Patrizio_Torlonia.jpg", "allegiance": "Rome", "bio": "Marcus Porcius Cato (/\u02c8ke\u026ato\u028a/; 234\u2013149 BC), also known as Cato the Elder (Latin: Cato Major), Cato the Censor (Cato Censorius), Cato the Wise (Cato Sapiens), and Cato the Ancient (Cato Priscus), was a Roman soldier, senator and historian known for his conservatism and opposition to Hellenization.[1] He was the first to write history in Latin. His epithet \"Elder\" distinguishes him from his equally famous great-grandson Cato the Younger, who opposed Julius Caesar.\n", "wiki": "https://en.wikipedia.org/wiki/Cato%20the%20Elder"}}, {"model": "key_people_api.person", "pk": 10, "fields": {"name": "Hannibal", "title": "Nightmare of Rome", "era": "Early Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mommsen_p265.jpg/220px-Mommsen_p265.jpg", "allegiance": "Enemy", "bio": "Hannibal (/\u02c8h\u00e6n\u026ab\u0259l/; Punic: \ud802\udd07\ud802\udd0d\ud802\udd01\ud802\udd0f\ud802\udd0b\ud802\udd1f\ud802\udd01\ud802\udd13\ud802\udd12, BRQ \u1e24NB\u02bfL; 247\u00a0\u2013 between 183 and 181\u00a0BC)[note 1] was a Carthaginian general and statesman who is widely considered one of the greatest military commanders in history. His father, Hamilcar Barca, was a leading Carthaginian commander during the First Punic War (264\u2013241\u00a0BC). His younger brothers were Mago and Hasdrubal, and he was brother-in-law to Hasdrubal the Fair; all also commanded Carthaginian armies.\n", "wiki": "https://en.wikipedia.org/wiki/Hannibal"}}, {"model": "key_people_api.person", "pk": 11, "fields": {"name": "Scipio Africanus", "title": "Conqueror of Africa", "era": "Early Republic", "picture": "https://comicvine1.cbsistatic.com/uploads/original/11/114183/5171880-scipio_africanus.jpg", "allegiance": "Rome", "bio": "Publius Cornelius Scipio Africanus (/\u02c8sk\u026apio\u028a/; 236\u2013183 BC), also known as Scipio Africanus Major, Scipio Africanus the Elder, and Scipio the Great,[3] was a Roman general and later consul who is often regarded as one of the greatest military commanders and strategists of all time. His main achievements were during the Second Punic War. He is best known for defeating Hannibal at the final Battle of Zama (near modern Zama, Tunisia) in 202 BC. The victory was one of the feats that earned him the agnomen Africanus.\n", "wiki": "https://en.wikipedia.org/wiki/Scipio%20Africanus"}}, {"model": "key_people_api.person", "pk": 12, "fields": {"name": "Philip V of Macedon", "title": "No Alexander", "era": "Early Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Philip_V_of_Macedon_BM.jpg/220px-Philip_V_of_Macedon_BM.jpg", "allegiance": "Enemy", "bio": "Philip V (Greek: \u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2; 238\u2013179 BC) was king (Basileus) of the ancient Kingdom of Macedonia from 221 to 179 BC. Philip's reign was principally marked by an unsuccessful struggle with the emerging power of the Roman Republic. He would lead Macedon against Rome in the First and Second Macedonian Wars, losing both but allying with Rome in the Roman-Seleucid War towards the end of his reign.\n", "wiki": "https://en.wikipedia.org/wiki/Philip%20V%20of%20Macedon"}}, {"model": "key_people_api.person", "pk": 13, "fields": {"name": "Lucius Aemilius Paullus Macedonicus", "title": "Conqueror of Macedon", "era": "Early Republic", "picture": "https://alchetron.com/cdn/lucius-aemilius-paullus-macedonicus-f0b8796b-64ef-4a4a-bf20-4618ec8ef43-resize-750.jpeg", "allegiance": "Rome", "bio": "Lucius Aemilius Paullus Macedonicus (c. 229 BC\u00a0\u2013 160 BC) was a two-time consul of the Roman Republic and a noted general who conquered Macedon, putting an end to the Antigonid dynasty in the Third Macedonian War.\n", "wiki": "https://en.wikipedia.org/wiki/Lucius%20Aemilius%20Paullus%20Macedonicus"}}, {"model": "key_people_api.person", "pk": 14, "fields": {"name": "Scipio Aemilianus", "title": "Destroyer of Carthage", "era": "Early Republic", "picture": "https://vignette.wikia.nocookie.net/althistory/images/5/50/Scipio-aemilianus.jpg/revision/latest?cb=20170224125717", "allegiance": "Rome", "bio": "Publius Cornelius Scipio Aemilianus Africanus Numantinus (185\u2013129 BC), primarily known as Scipio Aemilianus, or also Scipio Africanus Minor, or Scipio Africanus the Younger, was an important politician and general of the Roman Republic, who served as consul twice, in 147 and 134 BC.  He was the natural son of Aemilius Paullus, but was adopted into the Cornelii Scipiones\u2014the most prominent family at the time\u2014by a son of Scipio Africanus.\n", "wiki": "https://en.wikipedia.org/wiki/Scipio%20Aemilianus"}}, {"model": "key_people_api.person", "pk": 15, "fields": {"name": "Tiberius Gracchus", "title": "Man of the People", "era": "Late Republic", "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/1/1c/Tiberius_Gracchus.jpg/revision/latest?cb=20190418171852", "allegiance": "Rome", "bio": "Tiberius Sempronius Gracchus (Latin: TI\u00b7SEMPRONIVS\u00b7TI\u00b7F\u00b7P\u00b7N\u00b7GRACCVS; c. 165 \u2013 133 BC) was a tribune of the plebs in the Roman Republic who sponsored several reforms of agrarian legislation that sought to transfer land from wealthy landowners to poorer citizens. He belonged to the highest aristocracy, as his father had been a consul and his mother was the daughter of the renowned general Scipio Africanus. His proposed land policies caused significant political turmoil and he was lynched, along with several supporters, in a riot instigated by his enemies in the senate. A decade later, his younger brother, Gaius Gracchus, attempted similar legislation, and suffered a similar fate. Tiberius is considered the first prominent member of the Populares faction, whose struggle with the conservative Optimates dominated Roman politics in the following century.\n", "wiki": "https://en.wikipedia.org/wiki/Tiberius%20Gracchus"}}, {"model": "key_people_api.person", "pk": 16, "fields": {"name": "Gaius Gracchus", "title": "Fire and Brimstone Populist", "era": "Late Republic", "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/d/d5/Gaius_Gracchus.jpg/revision/latest?cb=20190418172635", "allegiance": "Rome", "bio": "Gaius Sempronius Gracchus (154\u2013121 BC) was a Roman Popularis politician in the 2nd century BC and brother of the reformer Tiberius Sempronius Gracchus. His election to the office of tribune in the years 123 BC and 122 BC and reformative policies while in office prompted a constitutional crisis and his death at the hands of the Roman Senate in 121 BC.\n", "wiki": "https://en.wikipedia.org/wiki/Gaius%20Gracchus"}}, {"model": "key_people_api.person", "pk": 17, "fields": {"name": "Jugurtha", "title": "King of Numidia", "era": "Late Republic", "picture": "https://steemitimages.com/640x0/https://i.imgsafe.org/b636640f66.png", "allegiance": "Enemy", "bio": "Jugurtha or Jugurthen (c. 160 \u2013 104 BC) was a king of Numidia, born in Cirta (modern-day Constantine). When the Numidian king Micipsa, who had adopted Jugurtha, died in 118 BC, Jugurtha and his two adoptive brothers, Hiempsal and Adherbal, succeeded him.\u00a0 Jugurtha arranged to have Hiempsal killed and, after a civil war, defeated and killed Adherbal in 112 BC.\u00a0 The death of Adherbal, which was against the wishes of Rome, along with the growing popular anger in Rome at Jugurtha\u2019s success in bribing Roman senators (and thus avoiding Roman retribution for his crimes), led to the Jugurthine War between Rome and Numidia which, after a number of battles in Numidia between Roman and Numidian forces, eventually led to Jugurtha\u2019s capture in 106 BC and his being paraded through Rome as part of Gaius Marius' Roman triumph.\u00a0 He was then thrown into the Tullianum prison where he died of starvation in 104 BC. \u00a0He was survived by his son, Oxyntas. \n", "wiki": "https://en.wikipedia.org/wiki/Jugurtha"}}, {"model": "key_people_api.person", "pk": 18, "fields": {"name": "Gaius Marius", "title": "Father of the Roman Legion", "era": "Late Republic", "picture": "https://i.pinimg.com/originals/25/98/2a/25982a128f36b4d6492ae69e6022441c.jpg", "allegiance": "Rome", "bio": "Gaius Marius[a] (/\u02c8\u0261e\u026a\u0259s \u02c8m\u025b\u0259ri\u0259s, \u02c8m\u00e6r-/, Latin pronunciation:\u00a0[\u02c8\u0261a\u02d0.\u026a.\u028as\u00a0\u02c8mar\u026a.\u028as]; 157 BC \u2013 13 January 86 BC) was a Roman general and statesman. Victor of the Cimbric and Jugurthine wars, he held the office of consul an unprecedented seven times during his career. He was also noted for his important reforms of Roman armies. He was at the centre of a paradigmatic shift from the militia levies of the middle Republic to the professional soldiery of the late Republic; he also improved the pilum, a javelin (after improvement) designed to bend on impact, and large-scale changes to the logistical structure of the Roman army.[1]\n", "wiki": "https://en.wikipedia.org/wiki/Gaius%20Marius"}}, {"model": "key_people_api.person", "pk": 19, "fields": {"name": "Sulla", "title": "Optimate Strongman", "era": "Late Republic", "picture": "https://i.pinimg.com/originals/28/31/c2/2831c20ae3f07be9642970ef4781f7f3.jpg", "allegiance": "Rome", "bio": "Lucius Cornelius Sulla Felix[2] (/\u02c8s\u028cl\u0259/; c. 138 BC \u2013 78 BC), known commonly as Sulla, was a Roman general and statesman and one of the canonical figures of Roman history. He had the distinction of holding the office of consul twice, as well as reviving the dictatorship. Sulla was a skillful general, achieving numerous successes in wars against different opponents, both foreign and Roman. Sulla rose to prominence during the war against the Numidian king Jugurtha, whom he captured through betrayal, although his superior Gaius Marius took credit for ending the war. He then fought successfully against Germanic tribes during the Cimbrian War, and Italic tribes during the Social War. He was even awarded the Grass Crown for his command in the latter war.\n", "wiki": "https://en.wikipedia.org/wiki/Sulla"}}, {"model": "key_people_api.person", "pk": 20, "fields": {"name": "Mithridates VI of Pontus", "title": "Hegemon of the East", "era": "Late Republic", "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/800px-Mithridates_VI_Louvre.jpg", "allegiance": "Enemy", "bio": "Mithridates VI or Mithradates VI (/\u02ccm\u026a\u03b8r\u026a\u02c8de\u026ati\u02d0z/ or /\u02ccm\u026a\u03b8r\u0259\u02c8de\u026ati\u02d0z/[2]; Greek: \u039c\u03b9\u03b8\u03c1\u03b1\u03b4\u03ac\u03c4\u03b7\u03c2, \u039c\u03b9\u03b8\u03c1\u03b9\u03b4\u03ac\u03c4\u03b7\u03c2,[3] from Old Persian Mi\u03b8rad\u0101ta, \"gift of Mithra\") (135\u201363 BC), also known as Mithradates the Great (Megas) and Eupator Dionysius, was king of Pontus and Armenia Minor in northern Anatolia from about 120\u201363 BC. Mithridates is remembered as one of the Roman Republic\u2019s most formidable and successful enemies, who engaged three of the prominent generals from the late Roman Republic in the Mithridatic Wars: Lucius Cornelius Sulla, Lucius Licinius Lucullus and Gnaeus Pompeius Magnus. He has been called the greatest ruler of the Kingdom of Pontus.[4]\n", "wiki": "https://en.wikipedia.org/wiki/Mithridates%20VI%20of%20Pontus"}}, {"model": "key_people_api.person", "pk": 21, "fields": {"name": "Lucullus", "title": "Conqueror of the East", "era": "Late Republic", "picture": "https://i.pinimg.com/originals/f3/d6/92/f3d692512848877d1f68da23edb6a462.jpg", "allegiance": "Rome", "bio": "Lucius Licinius Lucullus (/lju\u02d0\u02c8k\u028cl\u0259s/; 118 BC[2]\u2013 57/56 BC) was an optimate politician of the late Roman Republic, closely connected with Lucius Cornelius Sulla. In the culmination of over twenty years of almost continuous military and government service, he became the conqueror of the eastern kingdoms in the course of the Third Mithridatic War, exhibiting extraordinary generalship in diverse situations, most famously during the Siege of Cyzicus, 73\u201372 BC, and at the Battle of Tigranocerta in Armenian Arzanene, 69 BC. His command style received unusually favourable attention from ancient military experts, and his campaigns appear to have been studied as examples of skillful generalship.[3]\n", "wiki": "https://en.wikipedia.org/wiki/Lucullus"}}]
+[
+  {
+    "model": "key_people_api.person",
+    "pk": 1,
+    "fields": {
+      "name": "Aeneas",
+      "title": "Trojan Refugee",
+      "era": "Pre-Roman Era",
+      "picture": "http://www.maicar.com/GML/000Images/aim/aeneas1636.jpg",
+      "allegiance": "Neutral",
+      "bio": "In Greco-Roman mythology, Aeneas (/\u026a\u02c8ni\u02d0\u0259s/;[1] Greek: \u0391\u1f30\u03bd\u03b5\u03af\u03b1\u03c2, Aine\u00edas, possibly derived from Greek \u03b1\u1f30\u03bd\u03ae meaning \"praised\") was a Trojan hero, the son of the prince Anchises and the goddess Aphrodite (Venus). His father was a first cousin of King Priam of Troy (both being grandsons of Ilus, founder of Troy), making Aeneas a second cousin to Priam's children (such as Hector and Paris). He is a character in Greek mythology and is mentioned in Homer's Iliad. Aeneas receives full treatment in Roman mythology, most extensively in Virgil's Aeneid, where he is cast as an ancestor of Romulus and Remus. He became the first true hero of Rome. Snorri Sturluson identifies him with the Norse god Vidarr of the \u00c6sir.[2]\n",
+      "wiki": "https://en.wikipedia.org/wiki/Aeneas",
+      "order": 0
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 2,
+    "fields": {
+      "name": "Romulus",
+      "title": "Founder of Rome",
+      "era": "Roman Kingdom",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+      "allegiance": "Rome",
+      "bio": "Romulus (/\u02c8r\u0252mj\u0259l\u0259s/) was the legendary founder and first king of Rome. Various traditions attribute the establishment of many of Rome's oldest legal, political, religious, and social institutions to Romulus and his contemporaries. Although many of these traditions incorporate elements of folklore, and it is not clear to what extent a historical figure underlies the mythical Romulus, the events and institutions ascribed to him were central to the myths surrounding Rome's origins and cultural traditions.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Romulus",
+      "order": 1
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 3,
+    "fields": {
+      "name": "Lucius Tarquinius Superbus",
+      "title": "Last King of Rome",
+      "era": "Roman Kingdom",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tarquinius-Superbus.jpg",
+      "allegiance": "Rome",
+      "bio": "Lucius Tarquinius Superbus (died 495 BC) was the legendary seventh and final king of Rome, reigning from 535 BC until the popular uprising in 509 BC that led to the establishment of the Roman Republic. He is commonly known as Tarquin the Proud, from his cognomen Superbus (Latin for \"proud, arrogant, lofty\").[1]\n",
+      "wiki": "https://en.wikipedia.org/wiki/Lucius%20Tarquinius%20Superbus",
+      "order": 2
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 4,
+    "fields": {
+      "name": "Lucius Junius Brutus",
+      "title": "Father of the Republic",
+      "era": "Early Republic",
+      "picture": "http://www.romeandart.eu/images/news/bruto-1.jpg",
+      "allegiance": "Rome",
+      "bio": "Lucius Junius Brutus (/\u02c8lju\u02d0\u0283(i)\u0259s, \u02c8d\u0292u\u02d0ni\u0259s \u02c8bru\u02d0t\u0259s/; classical Latin: /\u02c8lu\u02d0.ki.us [\u02c8\u026b\u032au\u02d0.ki.\u028as] 'ju\u02d0.ni.us 'bru\u02d0.tus/) was the founder of the Roman Republic and traditionally one of the first consuls in 509 BC. This followed his successful overthrow of the Roman monarchy. He was claimed as an ancestor of the Roman gens Junia, including Decimus Junius Brutus and Marcus Junius Brutus, the most famous of Julius Caesar's assassins.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Lucius%20Junius%20Brutus",
+      "order": 3
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 5,
+    "fields": {
+      "name": "Lucius Quinctius Cincinnatus",
+      "title": "The Ideal Roman",
+      "era": "Early Republic",
+      "picture": "http://3.bp.blogspot.com/-K1GqzRbPVR8/UEd5rxlmboI/AAAAAAAACJ8/WyKA0cLVlUo/w1200-h630-p-k-no-nu/cincinnatus_marceldouwedekker.jpg",
+      "allegiance": "Rome",
+      "bio": "Lucius Quinctius[1] (or Quintius)[2] Cincinnatus (Latin:\u00a0[\u02c8lu\u02d0k\u026a.\u028as \u02c8k\u1da3i\u02d0\u014bkt\u026a.\u028as k\u026a\u014bk\u026an\u02c8na\u02d0t\u028as, - \u02c8k\u1da3i\u02d0nt\u026a.\u028as -]; c.\u2009519 \u2013 c.\u2009430\u00a0BC)[2][3] was a Roman patrician, statesman, and military leader of the early Roman Republic who became a legendary figure of Roman virtue\u2014particularly civic virtue\u2014by the time of the Empire.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Lucius%20Quinctius%20Cincinnatus",
+      "order": 4
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 6,
+    "fields": {
+      "name": "Marcus Furius Camillus",
+      "title": "Second Founder of Rome",
+      "era": "Early Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Furius-Camillus.jpg",
+      "allegiance": "Rome",
+      "bio": "Marcus Furius Camillus (/k\u0259\u02c8m\u026al\u0259s/; c. 446 \u2013 365 BC) was a Roman soldier and statesman of patrician descent. According to Livy and Plutarch, Camillus triumphed four times, was five times dictator, and was honoured with the title of Second Founder of Rome.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Marcus%20Furius%20Camillus",
+      "order": 5
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 7,
+    "fields": {
+      "name": "Pyrrhus of Epirus",
+      "title": "Greek Menace",
+      "era": "Early Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+      "allegiance": "Enemy",
+      "bio": "Pyrrhus \u0399 (/\u02c8p\u026ar\u0259s/; Ancient Greek: \u03a0\u03cd\u03c1\u03c1\u03bf\u03c2, Pyrrhos; 319/318\u2013272 BC) was a Greek general and statesman of the Hellenistic period.[1][2][3][4] He was king of the Greek tribe of Molossians,[3][5] of the royal Aeacid house,[6] and later he became king (Malalas called him also toparch[7]) of Epirus. He was one of the strongest opponents of early Rome. Several of his victorious battles caused him unacceptably heavy losses, from which the term Pyrrhic victory was coined.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Pyrrhus%20of%20Epirus",
+      "order": 6
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 8,
+    "fields": {
+      "name": "Hamilcar Barca",
+      "title": "Patriarch of the Punic Menace",
+      "era": "Early Republic",
+      "picture": "https://ehistory.osu.edu/sites/default/files/hamilcar.jpg",
+      "allegiance": "Enemy",
+      "bio": "Hamilcar Barca or Barcas (c.\u2009275\u2013228\u00a0BC) was a Carthaginian general and statesman, leader of the Barcid family, and father of Hannibal, Hasdrubal and Mago. He was also father-in-law to Hasdrubal the Fair.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Hamilcar%20Barca",
+      "order": 7
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 9,
+    "fields": {
+      "name": "Cato the Elder",
+      "title": "Upholder of Roman Values",
+      "era": "Early Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patrizio_Torlonia.jpg/220px-Patrizio_Torlonia.jpg",
+      "allegiance": "Rome",
+      "bio": "Marcus Porcius Cato (/\u02c8ke\u026ato\u028a/; 234\u2013149 BC), also known as Cato the Elder (Latin: Cato Major), Cato the Censor (Cato Censorius), Cato the Wise (Cato Sapiens), and Cato the Ancient (Cato Priscus), was a Roman soldier, senator and historian known for his conservatism and opposition to Hellenization.[1] He was the first to write history in Latin. His epithet \"Elder\" distinguishes him from his equally famous great-grandson Cato the Younger, who opposed Julius Caesar.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Cato%20the%20Elder",
+      "order": 8
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 10,
+    "fields": {
+      "name": "Hannibal",
+      "title": "Nightmare of Rome",
+      "era": "Early Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mommsen_p265.jpg/220px-Mommsen_p265.jpg",
+      "allegiance": "Enemy",
+      "bio": "Hannibal (/\u02c8h\u00e6n\u026ab\u0259l/; Punic: \ud802\udd07\ud802\udd0d\ud802\udd01\ud802\udd0f\ud802\udd0b\ud802\udd1f\ud802\udd01\ud802\udd13\ud802\udd12, BRQ \u1e24NB\u02bfL; 247\u00a0\u2013 between 183 and 181\u00a0BC)[note 1] was a Carthaginian general and statesman who is widely considered one of the greatest military commanders in history. His father, Hamilcar Barca, was a leading Carthaginian commander during the First Punic War (264\u2013241\u00a0BC). His younger brothers were Mago and Hasdrubal, and he was brother-in-law to Hasdrubal the Fair; all also commanded Carthaginian armies.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Hannibal",
+      "order": 9
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 11,
+    "fields": {
+      "name": "Scipio Africanus",
+      "title": "Conqueror of Africa",
+      "era": "Early Republic",
+      "picture": "https://comicvine1.cbsistatic.com/uploads/original/11/114183/5171880-scipio_africanus.jpg",
+      "allegiance": "Rome",
+      "bio": "Publius Cornelius Scipio Africanus (/\u02c8sk\u026apio\u028a/; 236\u2013183 BC), also known as Scipio Africanus Major, Scipio Africanus the Elder, and Scipio the Great,[3] was a Roman general and later consul who is often regarded as one of the greatest military commanders and strategists of all time. His main achievements were during the Second Punic War. He is best known for defeating Hannibal at the final Battle of Zama (near modern Zama, Tunisia) in 202 BC. The victory was one of the feats that earned him the agnomen Africanus.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Scipio%20Africanus",
+      "order": 10
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 12,
+    "fields": {
+      "name": "Philip V of Macedon",
+      "title": "No Alexander",
+      "era": "Early Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Philip_V_of_Macedon_BM.jpg/220px-Philip_V_of_Macedon_BM.jpg",
+      "allegiance": "Enemy",
+      "bio": "Philip V (Greek: \u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2; 238\u2013179 BC) was king (Basileus) of the ancient Kingdom of Macedonia from 221 to 179 BC. Philip's reign was principally marked by an unsuccessful struggle with the emerging power of the Roman Republic. He would lead Macedon against Rome in the First and Second Macedonian Wars, losing both but allying with Rome in the Roman-Seleucid War towards the end of his reign.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Philip%20V%20of%20Macedon",
+      "order": 11
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 13,
+    "fields": {
+      "name": "Lucius Aemilius Paullus Macedonicus",
+      "title": "Conqueror of Macedon",
+      "era": "Early Republic",
+      "picture": "https://alchetron.com/cdn/lucius-aemilius-paullus-macedonicus-f0b8796b-64ef-4a4a-bf20-4618ec8ef43-resize-750.jpeg",
+      "allegiance": "Rome",
+      "bio": "Lucius Aemilius Paullus Macedonicus (c. 229 BC\u00a0\u2013 160 BC) was a two-time consul of the Roman Republic and a noted general who conquered Macedon, putting an end to the Antigonid dynasty in the Third Macedonian War.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Lucius%20Aemilius%20Paullus%20Macedonicus",
+      "order": 12
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 14,
+    "fields": {
+      "name": "Scipio Aemilianus",
+      "title": "Destroyer of Carthage",
+      "era": "Early Republic",
+      "picture": "https://vignette.wikia.nocookie.net/althistory/images/5/50/Scipio-aemilianus.jpg/revision/latest?cb=20170224125717",
+      "allegiance": "Rome",
+      "bio": "Publius Cornelius Scipio Aemilianus Africanus Numantinus (185\u2013129 BC), primarily known as Scipio Aemilianus, or also Scipio Africanus Minor, or Scipio Africanus the Younger, was an important politician and general of the Roman Republic, who served as consul twice, in 147 and 134 BC.  He was the natural son of Aemilius Paullus, but was adopted into the Cornelii Scipiones\u2014the most prominent family at the time\u2014by a son of Scipio Africanus.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Scipio%20Aemilianus",
+      "order": 13
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 15,
+    "fields": {
+      "name": "Tiberius Gracchus",
+      "title": "Man of the People",
+      "era": "Late Republic",
+      "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/1/1c/Tiberius_Gracchus.jpg/revision/latest?cb=20190418171852",
+      "allegiance": "Rome",
+      "bio": "Tiberius Sempronius Gracchus (Latin: TI\u00b7SEMPRONIVS\u00b7TI\u00b7F\u00b7P\u00b7N\u00b7GRACCVS; c. 165 \u2013 133 BC) was a tribune of the plebs in the Roman Republic who sponsored several reforms of agrarian legislation that sought to transfer land from wealthy landowners to poorer citizens. He belonged to the highest aristocracy, as his father had been a consul and his mother was the daughter of the renowned general Scipio Africanus. His proposed land policies caused significant political turmoil and he was lynched, along with several supporters, in a riot instigated by his enemies in the senate. A decade later, his younger brother, Gaius Gracchus, attempted similar legislation, and suffered a similar fate. Tiberius is considered the first prominent member of the Populares faction, whose struggle with the conservative Optimates dominated Roman politics in the following century.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Tiberius%20Gracchus",
+      "order": 14
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 16,
+    "fields": {
+      "name": "Gaius Gracchus",
+      "title": "Fire and Brimstone Populist",
+      "era": "Late Republic",
+      "picture": "https://vignette.wikia.nocookie.net/totalwar-ar/images/d/d5/Gaius_Gracchus.jpg/revision/latest?cb=20190418172635",
+      "allegiance": "Rome",
+      "bio": "Gaius Sempronius Gracchus (154\u2013121 BC) was a Roman Popularis politician in the 2nd century BC and brother of the reformer Tiberius Sempronius Gracchus. His election to the office of tribune in the years 123 BC and 122 BC and reformative policies while in office prompted a constitutional crisis and his death at the hands of the Roman Senate in 121 BC.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Gaius%20Gracchus",
+      "order": 15
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 17,
+    "fields": {
+      "name": "Jugurtha",
+      "title": "King of Numidia",
+      "era": "Late Republic",
+      "picture": "https://steemitimages.com/640x0/https://i.imgsafe.org/b636640f66.png",
+      "allegiance": "Enemy",
+      "bio": "Jugurtha or Jugurthen (c. 160 \u2013 104 BC) was a king of Numidia, born in Cirta (modern-day Constantine). When the Numidian king Micipsa, who had adopted Jugurtha, died in 118 BC, Jugurtha and his two adoptive brothers, Hiempsal and Adherbal, succeeded him.\u00a0 Jugurtha arranged to have Hiempsal killed and, after a civil war, defeated and killed Adherbal in 112 BC.\u00a0 The death of Adherbal, which was against the wishes of Rome, along with the growing popular anger in Rome at Jugurtha\u2019s success in bribing Roman senators (and thus avoiding Roman retribution for his crimes), led to the Jugurthine War between Rome and Numidia which, after a number of battles in Numidia between Roman and Numidian forces, eventually led to Jugurtha\u2019s capture in 106 BC and his being paraded through Rome as part of Gaius Marius' Roman triumph.\u00a0 He was then thrown into the Tullianum prison where he died of starvation in 104 BC. \u00a0He was survived by his son, Oxyntas. \n",
+      "wiki": "https://en.wikipedia.org/wiki/Jugurtha",
+      "order": 16
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 18,
+    "fields": {
+      "name": "Gaius Marius",
+      "title": "Father of the Roman Legion",
+      "era": "Late Republic",
+      "picture": "https://i.pinimg.com/originals/25/98/2a/25982a128f36b4d6492ae69e6022441c.jpg",
+      "allegiance": "Rome",
+      "bio": "Gaius Marius[a] (/\u02c8\u0261e\u026a\u0259s \u02c8m\u025b\u0259ri\u0259s, \u02c8m\u00e6r-/, Latin pronunciation:\u00a0[\u02c8\u0261a\u02d0.\u026a.\u028as\u00a0\u02c8mar\u026a.\u028as]; 157 BC \u2013 13 January 86 BC) was a Roman general and statesman. Victor of the Cimbric and Jugurthine wars, he held the office of consul an unprecedented seven times during his career. He was also noted for his important reforms of Roman armies. He was at the centre of a paradigmatic shift from the militia levies of the middle Republic to the professional soldiery of the late Republic; he also improved the pilum, a javelin (after improvement) designed to bend on impact, and large-scale changes to the logistical structure of the Roman army.[1]\n",
+      "wiki": "https://en.wikipedia.org/wiki/Gaius%20Marius",
+      "order": 17
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 19,
+    "fields": {
+      "name": "Sulla",
+      "title": "Optimate Strongman",
+      "era": "Late Republic",
+      "picture": "https://i.pinimg.com/originals/28/31/c2/2831c20ae3f07be9642970ef4781f7f3.jpg",
+      "allegiance": "Rome",
+      "bio": "Lucius Cornelius Sulla Felix[2] (/\u02c8s\u028cl\u0259/; c. 138 BC \u2013 78 BC), known commonly as Sulla, was a Roman general and statesman and one of the canonical figures of Roman history. He had the distinction of holding the office of consul twice, as well as reviving the dictatorship. Sulla was a skillful general, achieving numerous successes in wars against different opponents, both foreign and Roman. Sulla rose to prominence during the war against the Numidian king Jugurtha, whom he captured through betrayal, although his superior Gaius Marius took credit for ending the war. He then fought successfully against Germanic tribes during the Cimbrian War, and Italic tribes during the Social War. He was even awarded the Grass Crown for his command in the latter war.\n",
+      "wiki": "https://en.wikipedia.org/wiki/Sulla",
+      "order": 18
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 20,
+    "fields": {
+      "name": "Mithridates VI of Pontus",
+      "title": "Hegemon of the East",
+      "era": "Late Republic",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/800px-Mithridates_VI_Louvre.jpg",
+      "allegiance": "Enemy",
+      "bio": "Mithridates VI or Mithradates VI (/\u02ccm\u026a\u03b8r\u026a\u02c8de\u026ati\u02d0z/ or /\u02ccm\u026a\u03b8r\u0259\u02c8de\u026ati\u02d0z/[2]; Greek: \u039c\u03b9\u03b8\u03c1\u03b1\u03b4\u03ac\u03c4\u03b7\u03c2, \u039c\u03b9\u03b8\u03c1\u03b9\u03b4\u03ac\u03c4\u03b7\u03c2,[3] from Old Persian Mi\u03b8rad\u0101ta, \"gift of Mithra\") (135\u201363 BC), also known as Mithradates the Great (Megas) and Eupator Dionysius, was king of Pontus and Armenia Minor in northern Anatolia from about 120\u201363 BC. Mithridates is remembered as one of the Roman Republic\u2019s most formidable and successful enemies, who engaged three of the prominent generals from the late Roman Republic in the Mithridatic Wars: Lucius Cornelius Sulla, Lucius Licinius Lucullus and Gnaeus Pompeius Magnus. He has been called the greatest ruler of the Kingdom of Pontus.[4]\n",
+      "wiki": "https://en.wikipedia.org/wiki/Mithridates%20VI%20of%20Pontus",
+      "order": 19
+    }
+  },
+  {
+    "model": "key_people_api.person",
+    "pk": 21,
+    "fields": {
+      "name": "Lucullus",
+      "title": "Conqueror of the East",
+      "era": "Late Republic",
+      "picture": "https://i.pinimg.com/originals/f3/d6/92/f3d692512848877d1f68da23edb6a462.jpg",
+      "allegiance": "Rome",
+      "bio": "Lucius Licinius Lucullus (/lju\u02d0\u02c8k\u028cl\u0259s/; 118 BC[2]\u2013 57/56 BC) was an optimate politician of the late Roman Republic, closely connected with Lucius Cornelius Sulla. In the culmination of over twenty years of almost continuous military and government service, he became the conqueror of the eastern kingdoms in the course of the Third Mithridatic War, exhibiting extraordinary generalship in diverse situations, most famously during the Siege of Cyzicus, 73\u201372 BC, and at the Battle of Tigranocerta in Armenian Arzanene, 69 BC. His command style received unusually favourable attention from ancient military experts, and his campaigns appear to have been studied as examples of skillful generalship.[3]\n",
+      "wiki": "https://en.wikipedia.org/wiki/Lucullus",
+      "order": 20
+    }
+  }
+]

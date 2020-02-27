@@ -9,7 +9,7 @@ from .models import Person
 # Create your views here.
 
 class PersonViewSet(viewsets.ModelViewSet):
-  queryset = Person.objects.all().order_by('pk')
+  queryset = Person.objects.all().order_by('order')
   serializer_class = PersonSerializer
   # permission_classes = [IsPersonAdminOrReadOnly]
 

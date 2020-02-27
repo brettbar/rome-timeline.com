@@ -72,6 +72,7 @@ if __name__=="__main__":
 
   print('Constructing new fixtures from data...')
   for item in json_data:
+    item['order'] = json_data.index(item)
     item['wiki'] = get_wiki_page(item['name'])
     item['bio'] = get_person_bio(item['name'])
     new_json = {}
