@@ -25,7 +25,9 @@ SECRET_KEY = '#2c!9zqz_*3dfq1tn!rz35-*^vg!8a*+&5%54ld#=wp=p$z38%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'brettbar.pythonanywhere.com'
+]
 
 CORS_ORIGIN_ALLOW_ALL = True
 
